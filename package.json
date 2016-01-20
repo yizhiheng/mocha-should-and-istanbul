@@ -1,0 +1,19 @@
+{
+  "name": "mocha-should-and-istanbul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yizhiheng/mocha-should-and-istanbul.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yizhiheng/mocha-should-and-istanbul/issues"
+  },
+  "homepage": "https://github.com/yizhiheng/mocha-should-and-istanbul#readme"
+}
